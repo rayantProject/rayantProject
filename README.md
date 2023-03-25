@@ -8,7 +8,7 @@
 
 - 🎓 I'm a "future" full-stack developer who's currently learning the ropes.
 - 🤖 I'm into IoT, and I've built a few Raspberry Pi and Arduino projects that... kind of work.
-- 🎨 I'm a big fan of making things look good with CSS, and sometimes, I even use Bootstrap. 😂
+- 🎨 I'm a big fan of making things look good with CSS, and sometimes, I even use Bootstrap.😂 My favorite UI kit is Material UI.
 - 💬 Feel free to hit me up if you want to chat about anything tech-related.
 
 <h3>🚀 My Skills</h3>
