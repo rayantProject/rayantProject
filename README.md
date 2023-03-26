@@ -54,6 +54,6 @@
 
 - I do not know how to use markdown, I just copy and paste from other people's profiles. 
 - I have a lot of projects that I haven't uploaded to GitHub yet. I'll get around to it eventually.
-- I have a goods pics of me, get my instagram:[@rayantraore](https://www.instagram.com/rayantraore/)
+- I have a goods pics of me, get my instagram:[@rayantraor](https://www.instagram.com/rayantraor/)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rayantProject&theme=onedark)
